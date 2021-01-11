@@ -1,0 +1,29 @@
+{
+  "Acknowledgements": "TODO: whom you want to acknowledge",
+  "Authors": [
+    "Jiajia Yang",
+    "Peter J. Molfese",
+    "Yinghua Yu",
+    "Daniel A. Handwerker",
+    "Gang Chen",
+    "Paul A. Taylor", 
+    "Yoshimichi Ejima",
+    "Jinglong Wu",
+    "Peter A. Bandettini"
+  ],
+  "BIDSVersion": "1.0.1",
+  "DatasetDOI": "TODO: eventually a DOI for the dataset",
+  "Funding": [
+    "TODO",
+    "GRANT #1",
+    "GRANT #2"
+  ],
+  "Corresponding Author":"Jiajia Yang,\nAssistant Professor,\nGraduate School of Interdisciplinary Science and Engineering in Health Systems\nOkayama University, Okayama, Japan\n3-1-1 Tsushima-Naka, Kita-ku, Okayama 700-8530, Japan\nTel: 81-86-251-8053  Fax: 81-86-251-8266\nEmail: yang@okayama-u.ac.jp",
+  "HowToAcknowledge": "TODO: describe how to acknowledge -- either cite a corresponding paper, or just in acknowledgement section",
+  "License": "TODO: choose a license, e.g. PDDL (http://opendatacommons.org/licenses/pddl/)",
+  "Name": "TODO: name of the dataset",
+  "ReferencesAndLinks": [
+    "TODO",
+    "List of papers or websites"
+  ]
+}
