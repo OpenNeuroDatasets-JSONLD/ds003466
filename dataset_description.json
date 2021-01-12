@@ -13,11 +13,7 @@
     ],
     "BIDSVersion": "1.0.1",
     "DatasetDOI": "10.18112/openneuro.ds003466.v1.0.0",
-    "Funding": [
-        "TODO",
-        "GRANT #1",
-        "GRANT #2"
-    ],
+    "Funding": [],
     "Corresponding Author": "Jiajia Yang,\nAssistant Professor,\nGraduate School of Interdisciplinary Science and Engineering in Health Systems\nOkayama University, Okayama, Japan\n3-1-1 Tsushima-Naka, Kita-ku, Okayama 700-8530, Japan\nTel: 81-86-251-8053  Fax: 81-86-251-8266\nEmail: yang@okayama-u.ac.jp",
     "HowToAcknowledge": "The paper of this study has been accepted for publication in NeuroImage. \nBefore the final version out, please cite this preprint: https://doi.org/10.1101/2020.08.04.235275 ",
     "License": "CC0",
