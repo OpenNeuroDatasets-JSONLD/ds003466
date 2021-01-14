@@ -1,6 +1,6 @@
-# Haptic three-dimensional curved surface exploration fMRI dataset
+## Haptic three-dimensional curved surface exploration fMRI dataset
 
-## Image acquisition:
+## Image acquisition
 MRI scans were performed on each participant using a GE Discovery MR750 3T MRI scanner (GE Healthcare, Chicago, IL). Each scanning session consisted of acquiring the following fMRI datasets: an individual finger somatotopic mapping run that was 10 min (240 volumes) in duration, followed by three or four haptic task runs that were each 11 min in duration (265 volumes). Standard T2*-weighted echo planar imaging (EPI) sequence parameters were used to obtain the functional images and ten reverse-blip volumes with the following parameters: repetition time (TR) = 2500 ms, echo time (TE) = 30 ms, phase encoding = A to P, flip angle = 75°, matrix = 77 × 77, axial slices = 42, in-plane field of view = 186 × 186 mm^2, in-plane resolution = 2.58 × 2.58 mm^2, and slice thickness = 3.0 mm (whole-brain coverage). After the fMRI acquisition, a T1-weighted magnetization prepared rapid gradient echo (MPRAGE) high-resolution anatomical volume was obtained with the following parameters: voxel size = 1.0 × 1.0 × 1.0 mm^3, TR = 7040 ms, TE = 3480 ms, matrix = 256 × 256 × 172, and duration = 5 min.
 
 ## FMRI tasks
