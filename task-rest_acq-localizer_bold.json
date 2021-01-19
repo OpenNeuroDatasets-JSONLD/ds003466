@@ -38,6 +38,7 @@
 	"SoftwareVersions": "27_LX_MR_Software_release:DV26.0_EB_1707.b",
 	"SpacingBetweenSlices": 3,
 	"StationName": "fmrif3tb",
+	"TaskName": "Rest Localizer EPI",
 	"dcmmeta_reorient_transform": [
 		[
 			0.0,
